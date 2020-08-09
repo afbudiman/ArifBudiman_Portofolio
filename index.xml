@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portofolio on ARIF BUDIMAN</title>
+    <link>https://afbudiman.github.io/ArifBudiman_Portofolio/</link>
+    <description>Recent content in Data Science Portofolio on ARIF BUDIMAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jul 2020 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://afbudiman.github.io/ArifBudiman_Portofolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: HR Analytics</title>
+      <link>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-1/</link>
+      <pubDate>Fri, 10 Jul 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-1/</guid>
+      <description>HR analytics is the process of collecting and analyzing Human Resource (HR) data in order to improve an organization’s workforce performance. The process can also be referred to as talent analytics, people analytics, or even workforce analytics.
+This method of data analysis takes data that is routinely collected by HR and correlates it to HR and organizational objectives. Doing so provides measured evidence of how HR initiatives are contributing to the organization’s goals and strategies.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Car Price Prediction</title>
+      <link>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-2/</link>
+      <pubDate>Sun, 14 Jun 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-2/</guid>
+      <description>Car Price Prediction is a really an interesting machine learning problem as there are many factors that influence the price of a car in the second-hand market. Considerable number of distinct attributes are examined for the reliable and accurate prediction. In this project, we will be looking at a dataset based on sale/purchase of cars where our end goal will be to predict the price of the car given its features to maximize the profit.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Customer Churn Prediction</title>
+      <link>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-3/</link>
+      <pubDate>Wed, 10 Jun 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-3/</guid>
+      <description>Churn prediction is one of the most popular Big Data use cases in business. It consists of detecting customers who are likely to cancel a subscription to a service.
+Although originally a telcom giant thing, this concerns businesses of all sizes, including startups. Now, thanks to prediction services and APIs, predictive analytics are no longer exclusive to big players that can afford to hire teams of data scientists.
+As an example of how to use churn prediction to improve your business, let’s consider businesses that sell subscriptions.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Customer Segmentation</title>
+      <link>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-4/</link>
+      <pubDate>Wed, 10 Jun 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-4/</guid>
+      <description>Customer segmentation is the practice of dividing a customer base into groups of individuals that are similar in specific ways relevant to marketing, such as age, gender, interests and spending habits.
+Companies employing customer segmentation operate under the fact that every customer is different and that their marketing efforts would be better served if they target specific, smaller groups with messages that those consumers would find relevant and lead them to buy something.</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Stock Market Prediction</title>
+      <link>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-5/</link>
+      <pubDate>Wed, 10 Jun 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-5/</guid>
+      <description>Stock market prediction is the act of trying to determine the future value of a company stock or other financial instrument traded on an exchange. The successful prediction of a stock&amp;rsquo;s future price could yield significant profit. The efficient-market hypothesis suggests that stock prices reflect all currently available information and any price changes that are not based on newly revealed information thus are inherently unpredictable. Others disagree and those with this viewpoint possess myriad methods and technologies which purportedly allow them to gain future price information.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Image Classification</title>
+      <link>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-6/</link>
+      <pubDate>Wed, 10 Jun 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://afbudiman.github.io/ArifBudiman_Portofolio/post/project-6/</guid>
+      <description>Image recognition is a term for computer technologies that can recognize certain people, animals, objects or other targeted subjects through the use of algorithms and machine learning concepts. The term “image recognition” is connected to “computer vision,” which is an overarching label for the process of training computers to “see” like humans, and “image processing,” which is a catch-all term for computers doing intensive work on image data.
+In this project, we would use convolutional neural network to predict or classify three differen group of image, which are rock, paper, and scissor accurately.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://afbudiman.github.io/ArifBudiman_Portofolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://afbudiman.github.io/ArifBudiman_Portofolio/contact/</guid>
+      <description>Follow me on one of these platform
+   Platform URL     Email: 9arifbudiman9@gmail.com   Github: https://www.github.com/afbudiman   Twitter: https://twitter.com/10Degreable    </description>
+    </item>
+    
+  </channel>
+</rss>
